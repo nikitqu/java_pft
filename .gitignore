@@ -12,3 +12,26 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+sandbox/build/tmp/jar/MANIFEST.MF
+sandbox/build/scripts/sandbox
+*.jar
+sandbox/Could
+*.txt
+sandbox/build/scripts/sandbox.bat
+sandbox/build/distributions/sandbox.zip
+sandbox/build/distributions/sandbox.tar
+sandbox/.idea/gradle.xml
+sandbox/.idea/gradle.xml
+.idea/misc.xml
+.idea/gradle.xml
+.idea/.name
+sandbox/.idea/misc.xml
+sandbox/build/classes/java/main/MyFirstProgram.class
+sandbox/.idea/vcs.xml
+.idea/vcs.xml
+.idea/misc.xml
+*.xml
+.idea/compiler.xml
+.idea/.name
+.idea/vcs.xml
+.idea/misc.xml
