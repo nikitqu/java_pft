@@ -47,3 +47,4 @@ sandbox/build/test-results/test/binary/output.bin.idx
 sandbox/build/classes/java/test/ru/stqa/pft/sandbox/SquareTests.class
 sandbox/build/classes/java/main/ru/stqa/pft/sandbox/Square.class
 sandbox/build/classes/java/main/ru/stqa/pft/sandbox/Rectangle.class
+sandbox/build/reports/tests/test/classes/ru.stqa.pft.sandbox.SquareTests.html
