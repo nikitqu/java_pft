@@ -54,3 +54,4 @@ addressbook-web-tests/build/reports/tests/test/classes/ru.stqa.pft.addressbook.G
 addressbook-web-tests/build/test-results/test/binary/results.bin
 addressbook-web-tests/build/test-results/test/binary/output.bin.idx
 addressbook-web-tests/build/test-results/test/binary/output.bin
+sandbox/build/classes/java/main/ru/stqa/pft/sandbox/Point.class
